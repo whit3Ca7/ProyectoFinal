@@ -1,0 +1,125 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100&display=swap');
+
+/* Palette 
+:root {
+   
+    
+    --primary: #000000;
+    --secondary: #131F15;
+    --light: #fdfdfd;
+    */
+    /* font sizes
+
+    --text-xxl: 4.8em;
+    --text-xl: 3.2em;
+    --text-lg: 2.0em;
+    --text-md: 1.6em;
+    --text-sm: 1.4em;
+    */
+
+    /* Spacings 
+
+    --sp-xxl: 12rem;
+    --sp-xl: 8rem;
+    --sp-lg: 5rem;
+    --sp-md: 3.2rem;
+    --sp-sm: 1.6rem;
+    --sp-xs: 0.8rem;
+}*/
+
+/* HEADER 
+
+
+header {
+    background-color: var(--primary);
+    padding: var(--sp-sm);
+
+}
+
+
+.container {
+    color:rgb(0, 0, 0);
+    max-width: 1200px;
+    margin: 0  auto;
+}
+
+
+.menu .menu__link {
+    color:var(--light);
+    display: inline-block;
+    padding: 1.1rem 1rem;
+    transition: all .3s ease-in-out;
+}
+
+.menu .menu__link:hover {
+    background-color:var(--light);
+    color: var(--primary);
+    border-radius: 0.5px;
+}
+
+
+.navbar .menu {
+    display: inline-block;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+}
+
+.navbar .menu .menu__item {
+    display: inline-block;
+}
+
+
+.banner-guitarras {
+    max-width: 1687px;
+}
+
+.banner-inicio {
+    max-width: 1687px;
+}
+
+
+.logos_guitarras {
+    background-color: #ffffff;
+    justify-content: space-around;
+    display: flex;
+    margin-bottom: 120px;
+}
+
+
+.carrousel-item {
+    max-height: 400px;
+} 
+
+*/
+
+
+/* GUITARRAS 
+
+.guitarras {
+    color: #efeded;
+    background-color: var(--primary);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: baseline;
+}
+
+.guitarras-2 {
+    margin: 200px;
+} 
+
+.ofertas_black {
+    color: #efeded;
+    background-color: var(--primary);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+*/ 

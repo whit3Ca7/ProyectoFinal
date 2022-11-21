@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@100&display=swap');
+
+header {
+    background-color: $primary;
+    padding: $sp-sm;
+
+    .navbar {
+        display: flex;
+        justify-content: space-between;
+        align-items: end;
+    }
+
+    .container {
+        color: rgb(0, 0, 0);
+        max-width: 1200px;
+        margin: 0 auto;
+
+        .menu {
+            display: inline-block;
+            margin-bottom: 0;
+
+            .menu__item {
+                display: inline-block;
+
+                .menu__link {
+                    color: $light;
+                    display: inline-block;
+                    padding: 1.1rem 1rem;
+                    transition: all .3s ease-in-out;
+
+                    &:hover {
+                        background-color: $light;
+                        color: $primary;
+                        border-radius: 0.5px;
+                    }
+                }
+            }
+        }
+    }
+}
+
+
